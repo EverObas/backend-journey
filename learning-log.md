@@ -7,3 +7,6 @@ Day 1
 Day 2
 - Learned about branches
 - Practiced merging branches
+
+Day 3
+- Practiced pull request workflow
